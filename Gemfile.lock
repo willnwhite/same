@@ -37,6 +37,7 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.1)
+    uuidtools (2.1.5)
     webrobots (0.1.1)
 
 PLATFORMS
@@ -45,3 +46,10 @@ PLATFORMS
 DEPENDENCIES
   mechanize
   scraperwiki!
+  uuidtools
+
+RUBY VERSION
+   ruby 2.0.0p481
+
+BUNDLED WITH
+   1.12.4
